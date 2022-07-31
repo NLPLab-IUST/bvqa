@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">bqva</string>
+
+    <string name="recognize_microphone">شروع</string>
+    <string name="stop_microphone">قطع</string>
+    <string name="preparing">Preparing the recognizer\n</string>
+    <string name="ready">اماده شده است!\n</string>
+    <string name="failed">Failed to init recognizer %s\n</string>
+    <string name="elapsed">Result %s elapsed %d milliseconds\n</string>
+    <string name="starting">Starting\n</string>
+    <string name="say_something">حرفی بزنید\n</string>
+    <string name="pause">توقف</string>
+    <string name="continueRecognition">ادامه دادن</string>
+
+</resources>
